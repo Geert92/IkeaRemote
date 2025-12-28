@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-12-28T22:04:38Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.8608,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB2 v42"
+        },
+        "Owner": "Geert van der Wolf <geert@vanmoof.com>",
+        "Size": {
+            "X": 49.164241,
+            "Y": 49.123781
+        }
+    }
+}
